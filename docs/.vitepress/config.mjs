@@ -67,10 +67,10 @@ export default defineConfig({
           }
         ]
       }
-    ]
-  },
+    ],
 
   socialLinks: [
     { icon: 'github', link: 'https://github.com/LiebeAyaka/LoveCCNU' }
   ]
+}
 })
