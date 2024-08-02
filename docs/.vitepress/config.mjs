@@ -15,9 +15,9 @@ export default defineConfig({
       '/入学必备/': [
         {
           text: '入学必备',
-          item: [
-            { text: '入学需要带的材料', link: '/入学必备/' },
-            { text: '日常生活用品', link: '/入学必备/日常生活用品' },
+          items: [
+            { text: '入学需要带的材料', link: '入学必备' },
+            { text: '日常生活用品', link: '入学必备/日常生活用品' },
             { text: '如何去华师', link: '/入学必备/如何去华师' },
             { text: '入学考试', link: '/入学必备/入学考试' },
             { text: '校园网', link: '/入学必备/校园网' },
@@ -32,7 +32,7 @@ export default defineConfig({
       '/学在华大/': [
         {
           text: '学在华大',
-          item: [
+          items: [
             { text: '首页', link: '/学在华大/' },
             { text: '专业人培', link: '/学在华大/专业人培' },
             { text: '学院机构', link: '/学在华大/学院机构' },
@@ -44,9 +44,8 @@ export default defineConfig({
       '/生活娱乐/': [
         {
           text: '生活娱乐',
-          item: [
-            { text: '首页', link: '/生活娱乐/' },
-            { text: '吃饭篇概况', link: '/生活娱乐/吃饭篇概况' },
+          items: [
+            { text: '吃饭篇概况', link: '/生活娱乐' },
             { text: '校内出行', link: '/生活娱乐/校内出行' },
             { text: '校外公共交通', link: '/生活娱乐/校外公共交通' },
             { text: '武汉哪里可以玩', link: '/生活娱乐/武汉哪里可以玩' }
@@ -57,7 +56,7 @@ export default defineConfig({
       '/住在华大/': [
         {
           text: '住在华大',
-          item: [
+          items: [
             { text: '首页', link: '/住在华大/' },
             { text: '住宿情况概要', link: '/住在华大/住宿情况概要' },
             { text: '住宿生活改善', link: '/住在华大/住宿生活改善' },

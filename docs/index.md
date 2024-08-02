@@ -19,7 +19,7 @@ features:
     details: 站主是外院的，有点私心不行吗
   - title: 开学准备
     details: 开学之前要带什么去学校呢
-    link: 入学必备/开学材料准备
+    link: 入学必备
   - title: 住宿情况
     details: 浅浅地了解一下未来的家吧
     link: 住在华大
