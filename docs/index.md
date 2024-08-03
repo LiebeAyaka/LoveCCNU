@@ -15,8 +15,6 @@ hero:
       link: https://tool.gljlw.com/qq/?qq=1028191914
 
 features:
-  - title: 外院专区
-    details: 站主是外院的，有点私心不行吗
   - title: 开学准备
     details: 开学之前要带什么去学校呢
     link: 入学必备
@@ -29,6 +27,11 @@ features:
   - title: 学习生活
     details: 大学生还是不能忘记自己的本职的
     link: 学在华大
+  - title: 校园活动
+    details: 社团，校媒，你想了解的都在这
+    link: 校园活动
+  - title: 外院专区
+    details: 站主是外院的，有点私心不行吗
   
 ---
 
