@@ -24,6 +24,7 @@ export default defineConfig({
             { text: '日常生活用品', link: '/入学必备/日常生活用品' },
             { text: '如何去华师', link: '/入学必备/如何去华师' },
             { text: '入学考试', link: '/入学必备/入学考试' },
+            { text: '军训', link: '/入学必备/军训' },
             { text: '校园网', link: '/入学必备/校园网' },
             { text: '常用app', link: '/入学必备/常用app' },
             { text: '常用网站', link: '/入学必备/常用网站' },
