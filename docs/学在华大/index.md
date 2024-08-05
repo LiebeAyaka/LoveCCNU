@@ -5,7 +5,7 @@
 ### 教育学院
 ### 心理学院
 ### 文学院
-[文院基地班](../public/cultivar/literatura/文院基地班2021.pdf){download}
+[文院基地班](../cultivar/literatura/文院基地班2021.pdf){download}
 
 [文院非师范](../public/cultivar/literatura/文院非师范2021.pdf){download}
 
