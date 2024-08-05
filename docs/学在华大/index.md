@@ -5,11 +5,11 @@
 ### 教育学院
 ### 心理学院
 ### 文学院
-[文院基地班](../public/cultivar/historia/文院基地班.pdf)
+[文院基地班](../public/cultivar/literatura/文院基地班2021.pdf){download}
 
-[文院非师范](../public/cultivar/historia/文院非师范.pdf)
+[文院非师范](../public/cultivar/literatura/文院非师范2021.pdf){download}
 
-[文院师范](../public/cultivar/historia/文院师范.pdf)
+[文院师范](../public/cultivar/literatura/文院师范.pdf){download}
 
 ### 新闻传播学院
 [新闻传播学院各专业汇总2021版](../public/cultivar/noticia/【最新】各专业21版（21级22级适用）人培最后提交版2022.09.22(1).pdf)
