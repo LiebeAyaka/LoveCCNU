@@ -30,6 +30,9 @@ features:
   - title: 校园活动
     details: 社团，校媒，你想了解的都在这
     link: 校园活动
+  - title: 仙人指路
+    details: 不要迷路哟
+    link: 华师地表 
   - title: 外院专区
     details: 站主是外院的，有点私心不行吗
   

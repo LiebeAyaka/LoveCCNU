@@ -77,7 +77,13 @@ export default defineConfig({
           items:[
             { text: '社团目录', link: '/校园活动/' },
             { text: '校园媒体', link: '/校园活动/校园媒体' },
-            { text: '学生部门', link: '/校园活动/学生部门' },
+            { 
+              text: '学生部门', 
+              items: [
+                { text: '学生部门', link: '/校园活动/大型活动' },
+                { text: '班委会', link: '/校园活动/班委会'}
+              ]
+            },
             { text: '大型活动', link: '/校园活动/大型活动' },
           ]
         }
