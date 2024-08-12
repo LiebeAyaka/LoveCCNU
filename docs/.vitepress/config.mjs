@@ -12,7 +12,6 @@ export default defineConfig({
     
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
     ],
 
     sidebar: {
@@ -51,7 +50,16 @@ export default defineConfig({
         {
           text: '生活娱乐',
           items: [
-            { text: '吃饭篇概况', link: '/生活娱乐/' },
+            { text: '吃在华大', link: '/生活娱乐/',
+              items: [
+                { text: '东一', link: '/生活娱乐/detalle/东一' },
+                { text: '东二', link: '/生活娱乐/detalle/东二' },
+                { text: '学子', link: '/生活娱乐/detalle/学子' },
+                { text: '桂香园', link: '/生活娱乐/detalle/桂香园' },
+                { text: '沁园春', link: '/生活娱乐/detalle/沁园春' },
+                { text: '南湖', link: '/生活娱乐/detalle/南湖' },
+              ]
+            },
             { text: '校内出行', link: '/生活娱乐/校内出行' },
             { text: '校外公共交通', link: '/生活娱乐/校外公共交通' },
             { text: '武汉哪里可以玩', link: '/生活娱乐/武汉哪里可以玩' }
@@ -63,10 +71,18 @@ export default defineConfig({
         {
           text: '住在华大',
           items: [
-            { text: '首页', link: '/住在华大/' },
+            { text: '寝室介绍', link: '/住在华大/',
+              items: [
+                { text: '东一~九', link: '/住在华大/detalle/东区1-9'},
+                { text: '东十~十八', link: '/住在华大/detalle/东区10-18'},
+                { text: '西区', link: '/住在华大/detalle/西区'},
+                { text: '元宝山', link: '/住在华大/detalle/元宝山'},
+                { text: '南湖', link: '/住在华大/detalle/南湖'},
+              ]
+            },
             { text: '住宿情况概要', link: '/住在华大/住宿情况概要' },
             { text: '住宿生活改善', link: '/住在华大/住宿生活改善' },
-            { text: '医疗服务', link: '/住在华大/医疗服务' }
+            { text: '医疗服务', link: '/住在华大/医疗服务' },
           ]
         }
       ],
@@ -79,8 +95,9 @@ export default defineConfig({
             { text: '校园媒体', link: '/校园活动/校园媒体' },
             { 
               text: '学生部门', 
+              link: '/校园活动/学生部门',
               items: [
-                { text: '学生部门', link: '/校园活动/大型活动' },
+                { text: '年级学生会', link: '/校园活动/年级学生会' },
                 { text: '班委会', link: '/校园活动/班委会'}
               ]
             },
