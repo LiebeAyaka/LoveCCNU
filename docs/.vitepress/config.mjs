@@ -22,9 +22,10 @@ export default defineConfig({
             { text: '入学需要带的材料', link: '/入学必备/' },
             { text: '日常生活用品', link: '/入学必备/日常生活用品' },
             { text: '如何去华师', link: '/入学必备/如何去华师' },
+            { text: '酒店睿评', link: '/入学必备/酒店睿评' },
             { text: '入学考试', link: '/入学必备/入学考试' },
             { text: '军训', link: '/入学必备/军训' },
-            { text: '校园网', link: '/入学必备/校园网' },
+            { text: '校园网', link: '/入学必备/校园网' },~
             { text: '常用app', link: '/入学必备/常用app' },
             { text: '常用网站', link: '/入学必备/常用网站' },
             { text: '提供意见', link: '/入学必备/提供意见或帮助我' },
@@ -104,8 +105,19 @@ export default defineConfig({
             { text: '大型活动', link: '/校园活动/大型活动' },
           ]
         }
-      ]
+      ],
 
+      '/华师地标/':[
+        {
+          text: '华师地标',
+          items: [
+            { text: '华师地标', link: '/华师地标/' },
+            { text: '教学楼', link: '/华师地标/教学楼'},
+            { text: '体育课在哪上', link: '/华师地标/体育课在哪上'},
+            { text: 'yy楼怎么走', link: '/华师地标/yy楼怎么走'},
+          ]
+        }
+      ]
     },
 
     socialLinks: [
