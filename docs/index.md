@@ -15,6 +15,9 @@ hero:
       link: https://tool.gljlw.com/qq/?qq=1028191914
 
 features:
+  - title: 题库
+    details: 新生入学教育考试专辑
+    link: 新生入学教育
   - title: 开学准备
     details: 开学之前要带什么去学校呢
     link: 入学必备

@@ -117,7 +117,10 @@ export default defineConfig({
             { text: 'yy楼怎么走', link: '/华师地标/yy楼怎么走'},
           ]
         }
-      ]
+      ],
+
+      '新生入学教育':[{text: '题库', link:'新生入学教育'},],
+      
     },
 
     socialLinks: [
