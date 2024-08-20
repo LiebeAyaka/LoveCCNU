@@ -25,7 +25,7 @@ export default defineConfig({
             { text: '酒店睿评', link: '/入学必备/酒店睿评' },
             { text: '入学考试', link: '/入学必备/入学考试' },
             { text: '军训', link: '/入学必备/军训' },
-            { text: '校园网', link: '/入学必备/校园网' },~
+            { text: '校园网', link: '/入学必备/校园网' },
             { text: '常用app', link: '/入学必备/常用app' },
             { text: '常用网站', link: '/入学必备/常用网站' },
             { text: '提供意见', link: '/入学必备/提供意见或帮助我' },
