@@ -8,13 +8,14 @@
 用途：方便显示课表，计算学分绩等，里面有很多神奇的功能等待你去探索呢
 
 下载链接：
+- [官网进行下载](https://static.muxixyz.com/ccnubox/ccnubox.apk)
 - [使用onedirve进行下载](https://mailsccnueducn-my.sharepoint.com/:u:/g/personal/liebeayaka_mails_ccnu_edu_cn/EQIGeO9rhVVHodLUrJ09pTYBVwhwwiGEvx2zuBctikPyAQ)
-- 苹果用户请前往App Store
+- 苹果用户请前往[App Store](https://apps.apple.com/cn/app/%E5%8D%8E%E5%B8%88%E5%8C%A3%E5%AD%90-%E5%8D%8E%E5%B8%88%E5%A7%BF%E5%8A%BF-%E5%B0%BD%E5%9C%A8%E5%8C%A3%E5%AD%90/id1180256394)
 
-~~木犀团队团队招新群：1145356279~~
-
-华师匣子交流群：974086861
-
+木犀团队宣传：
+- [华师匣子官网](https://ccnubox.muxistudio.xyz/)
+- [木犀团队团队招新群](https://qm.qq.com/cgi-bin/qm/qr?k=ozc4C1p7IX8vl-BtAsmeblH2tEfVzvhN&jump_from=webapi&authKey=a+kbNzXc9AxyWGUxg64TqiJFI2gokgwEzIFmjePGTQgIbBtzkRTQYtZuE+5MXaG4)
+- [华师匣子交流群](https://qm.qq.com/cgi-bin/qm/qr?k=IMFu8gOE_t2Mfn2F9DnSNhJhUDwt4DXU&jump_from=webapi&authKey=rEecfs9N7cVr+vxqyuT4yVDYSIAz+FtvBnFuGH/vPPJCYqFIjy3JMxSvQpMRAJ3V)
 
 
 #### 小雅
@@ -22,7 +23,7 @@
 
 用途：查上课签到，完成线上作业，或者下载老师上传的资料，等等。
 
-下载链接：各大应用商店
+下载链接：请访问官网。
 
 
 #### 中国大学慕课
