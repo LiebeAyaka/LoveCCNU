@@ -12,6 +12,12 @@
 - [使用onedirve进行下载](https://mailsccnueducn-my.sharepoint.com/:u:/g/personal/liebeayaka_mails_ccnu_edu_cn/EQIGeO9rhVVHodLUrJ09pTYBVwhwwiGEvx2zuBctikPyAQ)
 - 苹果用户请前往App Store
 
+~~木犀团队团队招新群：1145356279~~
+
+华师匣子交流群：974086861
+
+
+
 #### 小雅
 简介：华师目前最主要的云课堂平台。
 
