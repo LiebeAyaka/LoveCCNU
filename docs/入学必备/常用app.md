@@ -8,7 +8,6 @@
 用途：方便显示课表，计算学分绩等，里面有很多神奇的功能等待你去探索呢
 
 下载链接：
-- [下载](/apk/HuashiApp.Apk)
 - [使用onedirve进行下载](https://mailsccnueducn-my.sharepoint.com/:u:/g/personal/liebeayaka_mails_ccnu_edu_cn/EQIGeO9rhVVHodLUrJ09pTYBVwhwwiGEvx2zuBctikPyAQ)
 - 苹果用户请前往App Store
 
