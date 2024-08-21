@@ -11,13 +11,20 @@ export default defineConfig({
     },
     
     nav: [
-      { text: 'Home', link: '/' },
+      { text: '首页', link: '/' },
+      {
+        text: '外院',
+        items:[
+          {text: '小语种分流', link: '外院专区/小语种分流'},
+        ]
+      }
     ],
 
     sidebar: {
       '/入学必备/': [
         {
           text: '入学必备',
+          link: '/入学必备/',
           items: [
             { text: '入学需要带的材料', link: '/入学必备/' },
             { text: '日常生活用品', link: '/入学必备/日常生活用品' },
@@ -119,8 +126,18 @@ export default defineConfig({
         }
       ],
 
-      '新生入学教育':[{text: '题库', link:'新生入学教育'},],
+      '/外院专区/':
+      [
+        {
+          text: '外院专区',
+          link: '外院专区',
+          items: [
+            {text: '小语种分流', link:'外院专区/小语种分流'}
+          ]
+        }
+      ],
       
+      '新生入学教育':[{text: '题库', link:'新生入学教育'},],
     },
 
     socialLinks: [

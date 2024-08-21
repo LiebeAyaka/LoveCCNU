@@ -38,6 +38,19 @@ features:
     link: 华师地标
   - title: 外院专区
     details: 站主是外院的，有点私心不行吗
+    link: 外院专区
+  - title: 计科专区
+    details: 还没想好写什么
+    link: 计科专区
+  - title: 教院专区
+    details: 还没想好写什么
+    link: 教院专区
+  - title: 物院专区
+    details: 还没想好写什么
+    link: 物院专区
+  - title: 化院专区
+    details: 还没想好写什么
+    link: 化院专区 
   
 ---
 
